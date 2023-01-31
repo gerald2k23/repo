@@ -21,7 +21,6 @@ const useGetFiat = () => {
       );
     });
   };
-  console.log({ fiat });
 
   useEffect(() => {
     fetchYourFiat(db);

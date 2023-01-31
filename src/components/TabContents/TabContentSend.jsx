@@ -53,7 +53,7 @@ const TabContentSend = () => {
                     <div
                       onClick={() => setMessage(undefined)}
                       className='opacity-50 text-center cursor-pointer hover:opacity-80'>
-                      Close message
+                      Close message Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus arcu velit, placerat id molestie quis, dapibus ac eros. Nunc a purus id lorem imperdiet condimentum quis ut massa. Suspendisse potenti. Nam finibus nulla et enim maximus gravida.
                     </div>
                   </div>
                 )}

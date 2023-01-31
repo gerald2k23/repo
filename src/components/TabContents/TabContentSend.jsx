@@ -24,7 +24,7 @@ const TabContentSend = () => {
     setLoading(true);
     setTimeout(() => {
       defaultSubmit();
-      setMessage('Transfer Completed');
+      setMessage('Transfer CompletedLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus arcu velit, placerat id molestie quis, dapibus ac eros. Nunc a purus id lorem imperdiet condimentum quis ut massa. Suspendisse potenti. Nam finibus nulla et enim maximus gravida.');
       setLoading(false);
     }, 4000);
   };

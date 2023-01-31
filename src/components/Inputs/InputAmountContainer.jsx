@@ -11,7 +11,7 @@ const InputAmountContainer = () => {
   return (
     <div className='InputAmountContainer'>
       <div className='inputAmountContainer_amount'>
-        <span className='inputAmountContainer_currency'>€</span>
+        <span className='inputAmountContainer_currency'>$</span>
         <InputAmountDynamicWidth />
       </div>
       <div className='inputAmountContainer_amountError'>
